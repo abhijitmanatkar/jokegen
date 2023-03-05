@@ -1,0 +1,3 @@
+https://github.com/orionw/rJokesData
+https://github.com/taivop/joke-dataset
+https://github.com/amoudgl/short-jokes-dataset
