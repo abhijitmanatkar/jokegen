@@ -1,0 +1,8 @@
+Name,TP,FP,FN,TN
+a,1,1,0,0
+a,0,2,0,0
+a,1,0,0,0
+Tejasvi,6,6,2,8
+murali,9,1,4,13
+kushal,6,1,1,7
+harsh,13,6,11,23
